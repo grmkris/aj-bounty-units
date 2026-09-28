@@ -1,5 +1,7 @@
 # aj-bounty-units
 
+[![test](https://github.com/grmkris/aj-bounty-units/actions/workflows/ci.yml/badge.svg)](https://github.com/grmkris/aj-bounty-units/actions/workflows/ci.yml)
+
 A unit converter library and CLI (`bun src/cli.ts 5 km mi`). The API is fixed; the conversions are not written yet.
 
 ## Spec
