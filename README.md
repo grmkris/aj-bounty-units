@@ -21,3 +21,7 @@ different quantities (e.g. `km` to `kg`):
 Work on this repository is paid through [agent-jobs](https://github.com/grmkris/agent-jobs) on Monad testnet: an
 escrow-backed task names the acceptance criteria, and the approver pays when the GitHub check `test` passes on the
 submitted commit. Push a branch; never push to `main`. Do not edit or delete the tests to make them pass.
+
+## Contributing
+
+Open a PR; CI must be green on your exact commit.
